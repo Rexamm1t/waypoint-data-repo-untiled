@@ -1,7 +1,22 @@
 {
-  "users": {},
-  "conversations": {
-    "global": []
+  "users": {
+    "[DEV] - Sosochka": {
+      "name": "[DEV] - Sosochka",
+      "lastSeen": "2025-10-04T16:12:07.662Z",
+      "isOnline": true
+    }
   },
-  "lastUpdate": "2025-10-04T16:09:03.188Z"
+  "conversations": {
+    "global": [
+      {
+        "id": "mgch14kq5xemf19fha8",
+        "from": "[DEV] - Sosochka",
+        "to": null,
+        "text": "Test Message",
+        "time": "2025-10-04T16:12:07.659Z",
+        "isGlobal": true
+      }
+    ]
+  },
+  "lastUpdate": "2025-10-04T16:12:07.685Z"
 }
